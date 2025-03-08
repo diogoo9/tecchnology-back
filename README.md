@@ -34,7 +34,7 @@ $ docker-compose up --build -d
 # executar as migrations - criação das tabelas na base
 $ npm run migration:run
 
-# criação dos dados inicias - usuãrios e estados
+# criação dos dados inicias - usuários e estados
 $ npm run seed:run
 
 # instalar as dependencias
